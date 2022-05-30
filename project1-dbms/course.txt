@@ -1,0 +1,5 @@
+1|0|cno|char6%0|0|cname|char30%0|0|credit|int
+cno
+NF
+801%Foundation of computer%3
+802%Programming Language%2

@@ -1,0 +1,11 @@
+1|0|sno|char8%0|0|sname|char10%0|0|sex|char1%0|1|classno|char8%0|0|totalCredit|int
+sno
+classno|class|classno
+08300010%s1%m%Rj801%0
+08300012%s2%m%Rj801%0
+08300015%s3%f%Rj801%0
+08300020%s4%f%Rj802%0
+08300030%s5%m%Rj802%0
+08300070%s10%m%Rj801%0
+08300090%s11%m%Rj801%0
+08300098%s13%m%Rj801%0

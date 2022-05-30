@@ -1,0 +1,7 @@
+hqz%s%select
+hqz%s%alter
+hqz%s%insert
+hqz%sc%insert
+hqz%sc%select
+hqz%s%update
+hqz%teacher%alter

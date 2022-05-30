@@ -1,0 +1,6 @@
+1|0|tno|char6%0|0|tname|char10%0|0|sex|char1%0|0|semester|char10
+tno
+NF
+t1%t01%m%NULL
+t2%t02%f%NULL
+t3%t03%m%NULL
